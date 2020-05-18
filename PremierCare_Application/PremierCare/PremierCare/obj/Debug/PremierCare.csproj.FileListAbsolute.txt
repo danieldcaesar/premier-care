@@ -1,0 +1,48 @@
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\bin\Debug\PremierCare.exe.config
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\bin\Debug\PremierCare.exe
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\bin\Debug\PremierCare.pdb
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.Properties.Resources.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.csproj.GenerateResource.cache
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.csproj.CoreCompileInputs.cache
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.exe
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.pdb
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.PatientUserControl.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.AppointmentUserControl.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.PrescriptionUserControl.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.InvoiceUserControl.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.Login.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.CareMain.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.AllergiesWF.resources
+C:\Users\Kaedyn\Documents\VStudioProjects\PremierCare\PremierCare\obj\Debug\PremierCare.csprojAssemblyReference.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\bin\Debug\PremierCare.exe.config
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\bin\Debug\PremierCare.exe
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\bin\Debug\PremierCare.pdb
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.csprojAssemblyReference.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.Properties.Resources.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.csproj.GenerateResource.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.csproj.CoreCompileInputs.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.exe
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.pdb
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.AllergiesWF.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.AppointmentUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.CareMain.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.InvoiceUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.Login.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.PatientUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Working\PremierCare_v2\PremierCare\obj\Debug\PremierCare.UI.PrescriptionUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\bin\Debug\PremierCare.exe.config
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\bin\Debug\PremierCare.exe
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\bin\Debug\PremierCare.pdb
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.csprojAssemblyReference.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.AllergiesWF.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.AppointmentUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.CareMain.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.InvoiceUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.Login.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.PatientUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.UI.PrescriptionUserControl.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.Properties.Resources.resources
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.csproj.GenerateResource.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.csproj.CoreCompileInputs.cache
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.exe
+E:\Dani\Documents\School\Programmes\UTT\Diploma in Software Engineering\Year 3\Semester 2\PROG2009\Project\Final\PremierCare_Application\PremierCare\PremierCare\obj\Debug\PremierCare.pdb
