@@ -2,7 +2,7 @@
 
 1. Download and install SQL Management Studio 17.9 or later (https://docs.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-2017#previous-ssms-releases)
 
-**NOTE** *SSMS 17.9 or later is required to resolve any compatibility issues with older versions. *
+**NOTE** *SSMS 17.9 or later is required to resolve any compatibility issues with older versions.*
 
 2. Extract PremierCare.bacpac from the Zip file.
 3. Open Microsoft SQL Server Management Studio.
